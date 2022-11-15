@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SIYABONGA GAMEDZE on SIYABONGA</title>
+    <link>https://bhununuza10.github.io/Siya_Portforlio/</link>
+    <description>Recent content in SIYABONGA GAMEDZE on SIYABONGA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Nov 2022 11:15:58 -0400</lastBuildDate><atom:link href="https://bhununuza10.github.io/Siya_Portforlio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Employee Attrition EDA</title>
+      <link>https://bhununuza10.github.io/Siya_Portforlio/post/chapter-4/</link>
+      <pubDate>Mon, 14 Nov 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://bhununuza10.github.io/Siya_Portforlio/post/chapter-4/</guid>
+      <description>This project explores the Employee Attrition of an organization. It uses Matplotlib &amp;amp; Seaborn for visualization of the different variables that may or may not be contributing to employees leaving the organization link : https://github.com/Bhununuza10/My-Data-Analytics-Journey/blob/main/Employee%20Churn%20project%202%20Complete.ipynb</description>
+    </item>
+    
+    <item>
+      <title>The Machine Learning Project</title>
+      <link>https://bhununuza10.github.io/Siya_Portforlio/post/chapter-3/</link>
+      <pubDate>Mon, 14 Nov 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://bhununuza10.github.io/Siya_Portforlio/post/chapter-3/</guid>
+      <description>A machine learning project with data related direct to marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y) and compares three classification models( GradientBoostingClassifier, DecisionTreeClassifier &amp;amp; XGBClassifier )</description>
+    </item>
+    
+    <item>
+      <title>Eswatini Covid-19 2022</title>
+      <link>https://bhununuza10.github.io/Siya_Portforlio/post/chapter-6/</link>
+      <pubDate>Wed, 19 Oct 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://bhununuza10.github.io/Siya_Portforlio/post/chapter-6/</guid>
+      <description>This project looks into The Kingdom of Eswatini Covid-19 numbers in comparison with the past two years
+link: https://github.com/Bhununuza10/My-Data-Analytics-Journey/blob/main/Covid-19%202022%20Eswatini.ipynb</description>
+    </item>
+    
+    <item>
+      <title>2021 World Happiness</title>
+      <link>https://bhununuza10.github.io/Siya_Portforlio/post/chapter-1/</link>
+      <pubDate>Sat, 15 Oct 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhununuza10.github.io/Siya_Portforlio/post/chapter-1/</guid>
+      <description>The Worlds Happiness Report ranks countries&amp;rsquo; happiness based on respondents ratings of their own lives, which the report correlates with various(quality of) life factors(Gross National Happiness a.k.a GNN). This project focuses much more on showcasing my Data Visualization skills( Matplotlib and Seaborn) with some commentary based on the data link: https://github.com/Bhununuza10/My-Data-Analytics-Journey/blob/main/2021%20World%20Happiness(Exploratory%20Data%20Analysis)%20complete.ipynb</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://bhununuza10.github.io/Siya_Portforlio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bhununuza10.github.io/Siya_Portforlio/about/</guid>
+      <description>Graduated from the University of Eswatini with a B.A Degree in Social Science(Majors in Public Administration &amp;amp; Sociology) and an Association of Accounting Techhnicians Level 4 quallification. Got into Data Science in 2020 when Covid-19 hit and the world went into lockdown. As a Data Analyst I specialize in Human Resources/ People Analytics,Administration Analytics, Business &amp;amp; Accounting Analytics.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://bhununuza10.github.io/Siya_Portforlio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bhununuza10.github.io/Siya_Portforlio/contact/</guid>
+      <description>Contact me on these media platforms:
+Platform URL Email: cya.gamedze@gmail.com LinkedIn: https://www.linkedin.com/in/siyabonga-gamedze-9b1700192/ Github: https://github.com/Bhununuza10 Twitter: https://twitter.com/Siya_Gamedze </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on SIYABONGA</title>
+    <link>https://bhununuza10.github.io/Siya_Portforlio/tags/scene/</link>
+    <description>Recent content in scene on SIYABONGA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Oct 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://bhununuza10.github.io/Siya_Portforlio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021 World Happiness</title>
+      <link>https://bhununuza10.github.io/Siya_Portforlio/post/chapter-1/</link>
+      <pubDate>Sat, 15 Oct 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://bhununuza10.github.io/Siya_Portforlio/post/chapter-1/</guid>
+      <description>The Worlds Happiness Report ranks countries&amp;rsquo; happiness based on respondents ratings of their own lives, which the report correlates with various(quality of) life factors(Gross National Happiness a.k.a GNN). This project focuses much more on showcasing my Data Visualization skills( Matplotlib and Seaborn) with some commentary based on the data link: https://github.com/Bhununuza10/My-Data-Analytics-Journey/blob/main/2021%20World%20Happiness(Exploratory%20Data%20Analysis)%20complete.ipynb</description>
+    </item>
+    
+  </channel>
+</rss>
